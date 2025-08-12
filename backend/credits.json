@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sahayak-465612",
+  "private_key_id": "bf7c5833dabaf07a29a318713ea51bbfb5c8d507",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCgaURGh/dazwEF\nIzkj7idQMLn4s74MNWZq+K1dfYjwU5RFPPkw1CwNDuITS2qngF7sDRiVZu1JHHh+\nK4mKdkNI9rnvaj+OF7oR5wOyFmBQmrf5kj2LB/IcXGZ7rSj6TsQkDlcUiLuk3mOK\nXkeiMz83icoszcO4do9AyocRmc9629xP8YRaqkdFqIFg9RyaOKx9e5A3arhUt1EW\nCeKZf41+hcYtzLhxYXJDkT6Wdk9oSW5XTbwBXiadXCw1r65Qzp/PVhhW2dXif8Ol\nuKkoK2rEnUnfEZ1PMKnbMX1jwOhrT2cX9Rg0L/qQ1opDbLhNlPn9RCYXfOt0MQod\nl9xR8ZkdAgMBAAECggEABm0hLJgu2yb22f9Wvy8/yPEiyildQDz1bOyoeVnZnhMj\nGgD+1KtzVlSVzwMS80Hry5YcuYOFlwu6cgeJe5AQUwB7Y3GEuUsPC7+PANfvpNsF\n6swmhgbb9rHm8yZ1QU3dgrpGV87AgbLdFwJ+6SsXacCt5kyZ/i5Vv9k9PwHD856B\n/h3WukbU0AmfbyotoX2yWv86gYyAkVHPs6Tj9vYlYyRpgHWH47wNVN03uWIHCzc8\nWSSTSBQA5drRswLyQNjsvhelNs5Jy6e3ucmPuAcr6hmVPPZQ6Ffbqio9LYK5gaRa\nv5iJed1+ipdNGk+lzauiyQ8e8HUwb20f9UQ9s8vbQQKBgQDSKUw/WMMu95FDfanI\nXyBYFP7wpuIgg33lE2RiKCvhCzqocov0noFZRikoEBFa3nwfoa4DNGUx3OFQysHA\n096tdQF+JDaapCUsh2jprw7W6WrETaVlbvYDTg7SqEogjPuSibZRyYpqjOPHagyg\nftJdSTQbqjN7uNrSwL95O2YSIQKBgQDDZhbUYKwL+8EASQeuKbUJHX9BceqGk4Pp\n8VSP0G6yhC5vgI05SqqPkH0LAnH6tMZH5Vw09WjMAi1iSLDdFBoPaGHVSm29ayf/\nJ+/A4NGy+5HAW/wNGrTS6fhEeUR3ZBHH+3jVGcTe8AYY1nl7YNQ3U+IEtxX20GRd\npOHZHVDffQKBgHMl9YTv2WGue4UDITeMB2i7eEPa7CLsaNpOmb2+TOxs/qK0wEIz\nZqPHcV1mEFw9crzSFUnkN13uq/VcYnSIoYVgioTWyqRIM6YGO1FufS77jWgpMuo0\ntc5xwmVhl9vl4yETGzYMuy5OK69jR6/YTOKX7VkLFFJBooO+4CpIhVCBAoGAeQ1R\nDWeKjq375opX2Lz769a7VLcXHSJccd1RjvsI6U1cWzWfyCOKwQA5h02PgUrnH/ln\nA2QZ9XFP3ni8IWpnrq3zFilTDStKjxeVv79ICoMxy6Lw5slpxtSuOvWJxhFXtrYD\nKLobLiYzEMYmYpodPt2Xw2YNlGeMFjuks1YnGR0CgYA69rUs8x5xBi4HgQbtwcbZ\nLCT9+yHu35K7ZHWkfFwn833TX6GqVFBUutf/8/e4m+ONlAFPbo1SRrmAzj0goJ4S\nyF8GtvNtbpbFQIK6zaAFhgmYmBQUZlI3xFIUucoXI20bIyPWM07aShhxI0lQqWnx\nd3Wq/zu4d10QpwUCiqyKfw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sahayak-backend@sahayak-465612.iam.gserviceaccount.com",
+  "client_id": "109103979988925861190",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sahayak-backend%40sahayak-465612.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
